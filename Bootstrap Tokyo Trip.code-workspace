@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../free-tour-and-travel-website-templates"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootstrap-Japan-Trip"
+	}
+}
